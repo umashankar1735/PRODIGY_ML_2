@@ -79,16 +79,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please reach out to Umashankar mailto: ksaiumashankar@gmail.com
-```
-
-### Explanation
-
-- **Overview**: Provides a brief description of what the project does.
-- **Dataset**: Details about the dataset used.
-- **Requirements**: Lists the necessary libraries and how to install them.
-- **Setup**: Instructions to set up the project, including dataset handling.
-- **Usage**: Explains how to run the analysis and what each part of the code does.
-- **Example**: Shows how to execute the script.
-- **License**: Mentions the project’s license.
-- **Contact**: Provides a way to reach out for questions.
+For any questions or feedback, please reach out to Umashankar 
+mailto: ksaiumashankar@gmail.com
